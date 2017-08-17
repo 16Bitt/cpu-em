@@ -1,0 +1,19 @@
+#include <cstdint>
+#include "Registers.hpp"
+
+DEFINE_GPR(rax)
+DEFINE_GPR(rbx)
+DEFINE_GPR(rcx)
+DEFINE_GPR(rdx)
+DEFINE_GPR(rsp)
+DEFINE_GPR(rbp)
+DEFINE_GPR(rsi)
+DEFINE_GPR(rdi)
+DEFINE_GPR(r8)
+DEFINE_GPR(r9)
+DEFINE_GPR(r10)
+DEFINE_GPR(r11)
+DEFINE_GPR(r12)
+DEFINE_GPR(r13)
+DEFINE_GPR(r14)
+DEFINE_GPR(r15)
